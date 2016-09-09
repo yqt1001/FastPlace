@@ -1,0 +1,9 @@
+name: FastPlace
+main: mc.yqt.fastplace.FastPlace
+version: 1.0
+author: yqt1001
+depend: 
+commands:
+   place:
+      description: Places the blocks
+      usage: /<command>
